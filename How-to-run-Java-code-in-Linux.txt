@@ -1,0 +1,22 @@
+Reference: https://itsfoss.com/run-java-program-ubuntu/ 
+Reference: https://github.com/Rohit570k/Basic-Calculator/tree/master 
+Reference: https://www.datacamp.com/blog/java-projects-for-all-levels 
+
+
+
+(1) Check Java Version
+zakirashid@linux:~/Desktop/coding-projects/6_Calculator_in_Java$ javac --version
+javac 17.0.17
+
+(2) Check the Java file
+zakirashid@linux:~/Desktop/coding-projects/6_Calculator_in_Java$ ls
+How-to-run-Java-code-in-Linux.txt  z-calculator.java
+
+(3) Compile the Java Program
+zakirashid@linux:~/Desktop/coding-projects/6_Calculator_in_Java$ javac z-calculator.java
+
+(4) Run the Java Program
+zakirashid@linux:~/Desktop/coding-projects/6_Calculator_in_Java$ ls
+How-to-run-Java-code-in-Linux.txt  ZCalc.class  z-calculator.java
+
+zakirashid@linux:~/Desktop/coding-projects/6_Calculator_in_Java$ java ZCalc
