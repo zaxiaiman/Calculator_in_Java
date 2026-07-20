@@ -1,4 +1,4 @@
-# Calculator_in_Java
+# Calculator
 Calculator written in Java
 
 1) Reference: https://itsfoss.com/run-java-program-ubuntu/ 
